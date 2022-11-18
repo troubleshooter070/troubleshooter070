@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @troubleshooter070
+- 👋 Hi, @troubleshooter070 is here
 - 👀 I’m interested in coding and management
-- 🌱 I’m currently learning front-end CSS JS HTML
+- 🌱 I'm junior devops (sysadmin)
+- 👀 I’m new in front-end CSS JS HTML
 - 💞️ I’m looking to collaborate on projects "but I'm amature programmer"
 - 📫 How to reach me? feel free to mail me izerman17@gmail.com
 
